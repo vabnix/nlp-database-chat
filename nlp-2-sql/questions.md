@@ -1,0 +1,5 @@
+"Show me all employees in Engineering"
+"Who has a salary more than 80000?"
+"Show employees in Marketing department"
+"Find all employees hired before 2020"
+"What's the budget for the Engineering department?"
